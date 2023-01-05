@@ -1,6 +1,6 @@
 # MyToolbox
 
-Assistente de voz criado com o intuito de tornar tarefas simples e complexas mais acessíveis a todos por comandos de voz.
+Conjunto de scripts para tornar tarefas manuais mais fáceis de serem realizadas.
 
 Configuração Inicial:
 
